@@ -21,9 +21,9 @@ This project demonstrates advanced Power BI features including slicers, bookmark
 
 
 ## 🖼️ Screenshots
--Screenshot 2026-09-01 192255
-Screenshot 2026-09-01 192313.png
-Screenshot 2026-09-01 192327.png
+-Screenshot 2026-09-01 192255.png
+-Screenshot 2026-09-01 192313.png
+-Screenshot 2026-09-01 192327.png
 
 
 ## 📂 Files Included
