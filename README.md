@@ -20,11 +20,6 @@ This project demonstrates advanced Power BI features including slicers, bookmark
 - **Matrix View** — Multi‑city and multi‑currency transaction amounts and balances.
 
 
-## 🖼️ Screenshots
-[1](Screenshot%2026-09-01%192255.png)
-[2](Screenshot%2026-09-01%192313.png)
-[3](Screenshot%2026-09-01%192327.png)
-
 
 ## 📂 Files Included
 - `.pbix` → Full Power BI project file.
